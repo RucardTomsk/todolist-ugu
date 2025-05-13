@@ -1,0 +1,7 @@
+.idea
+
+*/.venv
+*/node_modules
+*/.idea
+
+togo-ugu.iml
